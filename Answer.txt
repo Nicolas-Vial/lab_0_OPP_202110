@@ -1,1 +1,2 @@
 Este es el laboratorio 0 del curso.
+Esta es la segunda versión
